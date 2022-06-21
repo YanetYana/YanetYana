@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm  YANA 👩
 ***
-### I will be glad to help you
+### I am an optimist with realistic views
 ***
 * 🎓 I'm a student in the Software testing course [Vadim Ksendzova](https://ksendzov.com/)
 
