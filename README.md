@@ -11,3 +11,8 @@
 *  If you want you can 🧐 look through some of my HomeWork  [here](https://github.com/YanetYana/HomeWork) 
 
 * Follow me   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/in/yana-bocharska/)  [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0000CD)](https://t.me/Yana_Bocharska)
+
+* My CV [here](https://spontaneous-vacherin-5dda53.netlify.app)
+
+
+
